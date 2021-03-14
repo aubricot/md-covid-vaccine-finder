@@ -5,7 +5,7 @@ Get a notification sent to your gmail account when Maryland vaccine appointments
 Follow the steps below to find out when vaccine appointments become available. The only requirement is that you have a gmail account. No coding knowledge needed. 
 
 **Steps**
-1) Click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubricot/md-covid-vaccine-finder/blob/master/find_appointments.ipynb) to open the notebook in Google Colab. 
+1) Click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubricot/md-covid-vaccine-finder/blob/master/find_appointments.ipynb) to open the script find_appointments.ipynb in Google Colab. 
 2) Click File -> Save a copy in Drive. 
 3) Go to your gmail account and add jeffaukey@gmail.com to your contacts. (Go [here](https://www.wikihow.com/Add-Contacts-in-Gmail) if you need help creating a new gmail contact)
 4) Return to find_appointments.ipynb
