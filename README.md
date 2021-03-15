@@ -10,6 +10,6 @@ Follow the steps below to find out when vaccine appointments become available. T
 3) Go to your gmail account and add jeffaukey@gmail.com to your contacts. (Go [here](https://www.wikihow.com/Add-Contacts-in-Gmail) if you need help creating a new gmail contact)
 4) Return to find_appointments.ipynb
 5) Enter your gmail address in form field "to_gmail" on right side of code block.
-6) Optional: Adjust the runtime form field for how many minutes you want the program to run for. Currently set to 180 minutes (=3 hours).
+6) Optional: Adjust the runtime form field for how many hours you want the program to run for. Currently set to 3 hours.
 
 Coming soon: Support for CVS.
