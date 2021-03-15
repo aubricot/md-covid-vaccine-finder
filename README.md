@@ -1,7 +1,6 @@
 # Maryland Covid-19 Vaccine Finder
-Get a notification sent to your gmail account when Maryland vaccine appointments are available at Giant, Safeway, or Mass Vaccination sites.    
-*Last updated 14 March 2021*  
 Follow the steps below to find out when vaccine appointments become available. The only requirement is that you have a gmail account. No coding knowledge needed. 
+*Last updated 14 March 2021*  
 
 **Steps**
 1) Click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubricot/md-covid-vaccine-finder/blob/master/find_appointments.ipynb) to open the script find_appointments.ipynb in Google Colab. 
