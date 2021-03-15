@@ -1,5 +1,5 @@
 # Maryland Covid-19 Vaccine Finder
-Follow the steps below to find out when vaccine appointments become available. The only requirement is that you have a gmail account. No coding knowledge needed. 
+Follow the steps below to find out when vaccine appointments become available. The only requirement is that you have a gmail account. No coding knowledge needed.    
 *Last updated 14 March 2021*  
 
 **Steps**
